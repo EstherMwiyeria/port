@@ -1,0 +1,49 @@
+nav{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    margin-left: 25%;
+    color: white;
+    
+}
+#words{
+    color: white;
+}
+.image1{
+    width: 40%;
+    margin-top: 3%;
+    margin-left: 15%;
+    border-radius: 15px;
+    /* height: 50px; */
+}
+.section1{
+    display: flex;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(37, 36, 36);
+    
+}
+.info{
+    margin-right: 1%;
+}
+.links a{
+    display: flex;
+    margin-left: 55%;
+    margin-top: 2%;
+    color: #12b886;
+    /* width: 50%;
+     padding: 50px;  */
+}
+.button2{
+    border-color: #12b886;
+    background-color: #12b886;
+    padding: 8px;
+    width: 70%;
+    color: white;
+    border-radius: 20%;
+}
+#career{
+    color: #12b886;
+}
